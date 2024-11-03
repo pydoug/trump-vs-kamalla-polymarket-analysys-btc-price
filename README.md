@@ -10,6 +10,34 @@ This project was created to explore the relationship between political events an
 - **Price Correlation**: Analyzing if certain events lead to notable changes in BTC price.
 - **Polymarket Data**: Using data from Polymarket, a decentralized information market platform, to conduct the analysis.
 
+**Analysis Breakdown**
+
+**Long-Term Time Series Analysis (1_long_time_time_series.py)**
+📈 Description: This script performs a time series analysis over a long period, identifying trends, patterns, and seasonality within the data.
+
+**Linear Regression (2_linear_regression.py)**
+🔹 Description: Implements a linear regression model to determine the linear relationship between a dependent variable and one or more independent variables.
+
+**Multiple Regression (3_multiple_regression.py)**
+🔹 Description: A multiple regression analysis that incorporates multiple independent variables to predict the outcome of a dependent variable, providing insights into complex relationships.
+
+**Stacked Area Chart (4_stack_area.py)**
+📊 Description: This script generates a stacked area chart, useful for visualizing the cumulative contribution of multiple data series over time.
+
+**Probability Analysis (5_probability.py)**
+🔹 Description: Conducts a probability analysis, likely exploring probability distributions, conditional probabilities, or likelihood of events within the dataset.
+
+**Polynomial Regression (6_polynomial_regression.py)**
+🔹 Description: Applies polynomial regression to model the relationship between variables in a nonlinear manner, capturing more complex patterns than linear regression.
+
+**Logarithmic Regression (7_logarithmic_regression.py)**
+🔹 Description: This script uses logarithmic regression to explore relationships where the rate of change is not constant, often applicable to data with rapid growth that slows over time.
+
+**AI/ML Random Forest Model (8_AI_ML_Random_Forest.py)**
+🌲 Description: Implements a Random Forest model, a machine learning algorithm that utilizes multiple decision trees to improve prediction accuracy and reduce overfitting.
+
+**And many others**
+
 ## Data Sources
 
 The analysis uses data sourced from:
