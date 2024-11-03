@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  Close   R-squared:                       0.030
+Model:                            OLS   Adj. R-squared:                  0.027
+Method:                 Least Squares   F-statistic:                     9.463
+Date:                Sun, 03 Nov 2024   Prob (F-statistic):            0.00229
+Time:                        12:04:04   Log-Likelihood:                -3157.2
+No. Observations:                 303   AIC:                             6318.
+Df Residuals:                     301   BIC:                             6326.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const         4.808e+04   4207.802     11.427      0.000    3.98e+04    5.64e+04
+Donald Trump  2.445e+04   7949.303      3.076      0.002    8810.735    4.01e+04
+==============================================================================
+Omnibus:                       42.144   Durbin-Watson:                   0.045
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               56.412
+Skew:                          -1.049   Prob(JB):                     5.63e-13
+Kurtosis:                       3.254   Cond. No.                         21.7
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

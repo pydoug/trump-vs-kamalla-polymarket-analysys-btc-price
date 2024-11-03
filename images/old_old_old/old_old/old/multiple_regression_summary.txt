@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  Close   R-squared:                       0.217
+Model:                            OLS   Adj. R-squared:                  0.209
+Method:                 Least Squares   F-statistic:                     27.47
+Date:                Sun, 03 Nov 2024   Prob (F-statistic):           1.04e-15
+Time:                        09:36:32   Log-Likelihood:                -3113.0
+No. Observations:                 302   AIC:                             6234.
+Df Residuals:                     298   BIC:                             6249.
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const         -6.199e+04   1.39e+04     -4.448      0.000   -8.94e+04   -3.46e+04
+Donald Trump   1.394e+05   1.58e+04      8.801      0.000    1.08e+05    1.71e+05
+Kamala Harris  1.112e+05   1.32e+04      8.400      0.000    8.52e+04    1.37e+05
+Joe Biden      1.321e+05   1.61e+04      8.197      0.000       1e+05    1.64e+05
+==============================================================================
+Omnibus:                       72.397   Durbin-Watson:                   0.117
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              141.274
+Skew:                          -1.250   Prob(JB):                     2.10e-31
+Kurtosis:                       5.231   Cond. No.                         80.5
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

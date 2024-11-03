@@ -1,0 +1,2 @@
+Cointegration Test Score: -1.1763669845571003
+p-value: 0.8639810585705416
