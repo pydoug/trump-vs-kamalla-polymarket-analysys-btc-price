@@ -43,7 +43,7 @@ This project was created to explore the relationship between political events an
 The analysis uses data sourced from:
 - **Polymarket**: Historical event data for the election predictions.
 - https://polymarket.com/event/presidential-election-winner-2024?tid=1730652082325
-- 
+  
 - **Cryptocurrency Exchange**: BTC price history from various exchanges to compare with Polymarket events.
 - https://coincodex.com/crypto/bitcoin/historical-data/
 
