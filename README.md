@@ -57,9 +57,10 @@ To run the analysis, you will need to clone the repository and install the requi
 
 ## Clone the Repository
 
+```
 git clone https://github.com/pydoug/trump-vs-kamalla-polymarket-analysys-btc-price
 cd trump-vs-kamalla-polymarket-analysys-btc-price
-
+```
 ### Install Dependencies
 Ensure you have Python installed. Then, use the following command to install the required libraries:
 ```
