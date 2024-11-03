@@ -38,6 +38,10 @@ This project was created to explore the relationship between political events an
 
 **And many others**
 
+## Project Structure
+- /data: Contains the raw and processed data.
+- /images: Folder to store generated charts and visualizations.
+
 ## Data Sources
 
 The analysis uses data sourced from:
@@ -51,8 +55,15 @@ The analysis uses data sourced from:
 
 To run the analysis, you will need to clone the repository and install the required dependencies.
 
-### Clone the Repository
+## Clone the Repository
 
-```bash
 git clone https://github.com/pydoug/trump-vs-kamalla-polymarket-analysys-btc-price
 cd trump-vs-kamalla-polymarket-analysys-btc-price
+
+### Install Dependencies
+Ensure you have Python installed. Then, use the following command to install the required libraries:
+```
+pip install -r requirements.txt
+```
+
+
